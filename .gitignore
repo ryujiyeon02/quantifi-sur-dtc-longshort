@@ -1,0 +1,11 @@
+# 데이터 (DataGuide 재배포 불가)
+data/raw/
+data/processed
+data/processed/
+
+# 환경
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
